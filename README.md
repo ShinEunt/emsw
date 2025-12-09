@@ -222,7 +222,8 @@ LED 점등 및
 <li><code>smart_delivery.aia</code> 파일을 <a href="https://www.google.com/search?q=http://ai2.appinventor.mit.edu/">MIT App Inventor</a> 사이트에 import 합니다.</li>
 <li><b>앱 설정:</b>
 <ul>
-<li>앱 실행 후 상단 텍스트 박스에 PC의 IP 주소와 포트를 입력합니다.</li>
+<li>App Inventor에서 Web을 클릭한 후 IP를 수정해주세요.</li>
+<li>또한 Blocks 탭에 url을 본인 IP로 수정해주세요.</li>
 <li>예시: <code>192.168.0.10:8080</code></li>
 </ul>
 </li>
