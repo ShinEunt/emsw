@@ -180,7 +180,7 @@ LED 점등 및
 
 
 <ul>
-<li><code>/arduino/delivery_system.ino</code> 파일을 아두이노에 업로드합니다.</li>
+<li><code>delivery_system.ino</code> 파일을 아두이노에 업로드합니다.</li>
 <li><b>Pin Map:</b>
 <ul>
 <li><code>Trig</code>: 9</li>
@@ -200,7 +200,7 @@ LED 점등 및
 
 
 <ul>
-<li>Processing IDE를 설치하고 <code>/processing/delivery_server.pde</code>를 실행합니다.</li>
+<li>Processing IDE를 설치하고 <code>delivery_server.pde</code>를 실행합니다.</li>
 <li><b>주의사항:</b>
 <ul>
 <li>코드 내 <code>Serial.list()[0]</code>의 포트 번호가 아두이노와 일치하는지 확인하세요.</li>
@@ -219,7 +219,7 @@ LED 점등 및
 
 
 <ul>
-<li><code>/app_inventor/smart_delivery.aia</code> 파일을 <a href="https://www.google.com/search?q=http://ai2.appinventor.mit.edu/">MIT App Inventor</a> 사이트에 import 합니다.</li>
+<li><code>smart_delivery.aia</code> 파일을 <a href="https://www.google.com/search?q=http://ai2.appinventor.mit.edu/">MIT App Inventor</a> 사이트에 import 합니다.</li>
 <li><b>앱 설정:</b>
 <ul>
 <li>앱 실행 후 상단 텍스트 박스에 PC의 IP 주소와 포트를 입력합니다.</li>
